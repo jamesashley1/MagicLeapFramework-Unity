@@ -1,5 +1,5 @@
 # MagicLeapFramework-Unity
-Unity helper classes and examples to speed prototyping for magic leap.
+Unity helper classes and examples to accelerate prototyping for magic leap.
 
 ![MLP](External/ReadMe-Images/mlf.png)
 
